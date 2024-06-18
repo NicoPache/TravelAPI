@@ -13,3 +13,18 @@ C:\Users\niko\Desktop\TraverAPI\TravelAPI\Services\bin\Debug\Models.pdb
 C:\Users\niko\Desktop\TraverAPI\TravelAPI\Services\bin\Debug\Models.dll.config
 C:\Users\niko\Desktop\TraverAPI\TravelAPI\Services\bin\Debug\EntityFramework.xml
 C:\Users\niko\Desktop\TraverAPI\TravelAPI\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\Services.dll.config
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\Services.dll
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\Services.pdb
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\EntityFramework.dll
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\Models.dll
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\Models.pdb
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\Models.dll.config
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\EntityFramework.xml
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\obj\Debug\Services.dll
+C:\Users\niko\Desktop\api descargada\TravelAPI\TravelAPI\Services\obj\Debug\Services.pdb

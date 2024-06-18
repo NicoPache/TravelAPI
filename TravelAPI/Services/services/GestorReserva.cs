@@ -37,6 +37,9 @@ namespace Services.services
                 _context.Reservas.Remove(reserva);
                 _context.SaveChanges();
             }
+            else {
+                throw new Exception("La reserva con el ID especificado no existe.");
+            }
         }
         public Reserva GetReservaByClienteIdAndTourId(int clienteId, int tourId)
         {
