@@ -92,3 +92,13 @@ C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\Unity.Container.pdb
 C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\EntityFramework.xml
 C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\EntityFramework.SqlServer.dll
 C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\Newtonsoft.Json.Bson.dll
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\System.Buffers.dll
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\System.Memory.dll
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\System.Web.Cors.dll
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\System.Web.Http.Cors.dll
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\Newtonsoft.Json.Bson.xml
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\System.Buffers.xml
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\System.Memory.xml
+C:\Users\niko\Desktop\TraverAPI\TravelAPI\TravelAPI\bin\System.Web.Http.Cors.xml
