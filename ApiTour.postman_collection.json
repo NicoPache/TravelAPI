@@ -1,0 +1,140 @@
+{
+	"info": {
+		"_postman_id": "58dc1a14-d80b-4474-9d84-bd054ac4b19c",
+		"name": "ApiTour",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36357434"
+	},
+	"item": [
+		{
+			"name": "MostrarReservas",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{urlApi}}/api/reservas",
+					"host": [
+						"{{urlApi}}"
+					],
+					"path": [
+						"api",
+						"reservas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "MostrarTours",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{urlApi}}/api/Tours",
+					"host": [
+						"{{urlApi}}"
+					],
+					"path": [
+						"api",
+						"Tours"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddReserva",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"ClienteId\": 2, \r\n    \"TourId\": 3  \r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{urlApi}}api/reservas",
+					"host": [
+						"{{urlApi}}api"
+					],
+					"path": [
+						"reservas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RemoveReserva",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{urlApi}}api/reservas/1",
+					"host": [
+						"{{urlApi}}api"
+					],
+					"path": [
+						"reservas",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "urlApi",
+			"value": "https://localhost:44342/",
+			"type": "string"
+		}
+	]
+}

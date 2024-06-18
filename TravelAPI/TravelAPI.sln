@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAPI", "TravelAPI\TravelAPI.csproj", "{11A227E9-F07A-456B-9DEF-CA58AC0A7103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{6AF670FC-0F5A-4F1B-AA07-6D5E3B4537EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{DDDE2968-0616-461C-B183-127CF8382103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A227E9-F07A-456B-9DEF-CA58AC0A7103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A227E9-F07A-456B-9DEF-CA58AC0A7103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A227E9-F07A-456B-9DEF-CA58AC0A7103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A227E9-F07A-456B-9DEF-CA58AC0A7103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF670FC-0F5A-4F1B-AA07-6D5E3B4537EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF670FC-0F5A-4F1B-AA07-6D5E3B4537EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF670FC-0F5A-4F1B-AA07-6D5E3B4537EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF670FC-0F5A-4F1B-AA07-6D5E3B4537EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDE2968-0616-461C-B183-127CF8382103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDE2968-0616-461C-B183-127CF8382103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDE2968-0616-461C-B183-127CF8382103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDE2968-0616-461C-B183-127CF8382103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912C56E8-0C22-458E-86B0-20D4CA7370DE}
+	EndGlobalSection
+EndGlobal
